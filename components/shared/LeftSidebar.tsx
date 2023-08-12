@@ -1,7 +1,7 @@
 import React from 'react';
 
 const LeftSidebar = () => {
-  return <h1>LeftSidebar</h1>;
+  return <div>LeftSidebar</div>;
 };
 
 export default LeftSidebar;
